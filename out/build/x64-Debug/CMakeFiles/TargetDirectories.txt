@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/qudd/dd_package/out/build/x64-Debug/CMakeFiles/DDPackage.dir
+C:/Users/Administrator/Desktop/qudd/dd_package/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/qudd/dd_package/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

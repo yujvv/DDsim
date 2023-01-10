@@ -1,0 +1,4 @@
+C:/Users/Administrator/Desktop/qudd/dd_package/out/build/x64-Debug/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+C:/Users/Administrator/Desktop/qudd/dd_package/out/build/x64-Debug/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+C:/Users/Administrator/Desktop/qudd/dd_package/out/build/x64-Debug/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/qudd/dd_package/out/build/x64-Debug/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
